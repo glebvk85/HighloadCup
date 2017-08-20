@@ -1,9 +1,0 @@
-c:\users\glebv\onedrive\документы\visual studio 2017\Projects\HighloadCup\HighloadCup\bin\Debug\netcoreapp1.1\HighloadCup.deps.json
-c:\users\glebv\onedrive\документы\visual studio 2017\Projects\HighloadCup\HighloadCup\bin\Debug\netcoreapp1.1\HighloadCup.runtimeconfig.json
-c:\users\glebv\onedrive\документы\visual studio 2017\Projects\HighloadCup\HighloadCup\bin\Debug\netcoreapp1.1\HighloadCup.runtimeconfig.dev.json
-c:\users\glebv\onedrive\документы\visual studio 2017\Projects\HighloadCup\HighloadCup\bin\Debug\netcoreapp1.1\HighloadCup.dll
-c:\users\glebv\onedrive\документы\visual studio 2017\Projects\HighloadCup\HighloadCup\bin\Debug\netcoreapp1.1\HighloadCup.pdb
-c:\users\glebv\onedrive\документы\visual studio 2017\Projects\HighloadCup\HighloadCup\obj\Debug\netcoreapp1.1\HighloadCup.csprojResolveAssemblyReference.cache
-c:\users\glebv\onedrive\документы\visual studio 2017\Projects\HighloadCup\HighloadCup\obj\Debug\netcoreapp1.1\HighloadCup.AssemblyInfo.cs
-c:\users\glebv\onedrive\документы\visual studio 2017\Projects\HighloadCup\HighloadCup\obj\Debug\netcoreapp1.1\HighloadCup.dll
-c:\users\glebv\onedrive\документы\visual studio 2017\Projects\HighloadCup\HighloadCup\obj\Debug\netcoreapp1.1\HighloadCup.pdb
